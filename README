@@ -1,0 +1,4 @@
+This is a minimal PHP wrapper for the Spotify Metadata API. You can search and
+lookup on all tracks, artists and albums. 
+
+index.php contains some example code.
